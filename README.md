@@ -2,9 +2,10 @@
 Modern crypto drainer for all assets
 🚀 Our drainer can instantly drain any type of token from any wallets, including ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, and all types of NFTs (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI, etc.)
 
-📩t.me/PHANTOMCD Message me on Telegram if you need the full clean source code or demo
+📩 t.me/PHANTOMCD Message me on Telegram if you need the full clean source code or demo
 💰 Our drainer can drain any type of token from a wallet, including ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, and all types of NFTs (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI, etc.)
-📩 Message me on Telegram and you will receive:
+
+📩 t.me/PHANTOMCD Message me on Telegram and you will receive:
 
 Golden Drainer 🚀 full source code
 
